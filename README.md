@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/GZHodUG.png" width="100px"/>
+  <h3 align="center">Github Streak</h3>
+</p>
 <h1 align="center">Hi 👋 I'm Ankit</h1>
 <h3 align="center">Passionate SDE | Full Stack Developer </h3>
 
