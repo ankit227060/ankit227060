@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
   <a href="https://leetcode.com/u/ankitghamdan/" target="_blank">
-    <img height="20" width="20" src="https://github.com/user-attachments/assets/af634a25-9d02-4050-93fc-42780f33b7a0" alt="LeetCode"/>
+    <img height="50" width="50" src="https://github.com/user-attachments/assets/af634a25-9d02-4050-93fc-42780f33b7a0" alt="LeetCode"/>
   </a>
   <a href="https://www.linkedin.com/in/ankitghamdan/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
