@@ -15,8 +15,29 @@
 - 👯 **I’m looking for :** SDE, Full Stack, and Artificial Intelligence roles
 - 📫 **Reach me at :** mr.ankit910@gmail.com
  
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankitghamdan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitghamdan) [![LeetCode](https://img.shields.io/badge/leetcode?logo=leetcode&logoColor=white)](https://www.linkedin.com/in/ankitghamdan/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ankit-4654) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31063796) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnkitGhamdan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.ankit910@gmail.com) 
+
+🔗 **Connect with me**
+
+<p align="left">
+  <a href="https://www.instagram.com/its_yduvnshi/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
+  <a href="https://www.snapchat.com/add/its_yduvnshi" target="_blank">
+    <img src="https://img.icons8.com/color/48/snapchat.png" alt="Snapchat"/>
+  </a>
+  <a href="https://www.linkedin.com/in/parshant786/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/918826448907" target="_blank">
+    <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/>
+  </a>
+  <a href="mailto:parshant786yadav@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail"/>
+  </a>
+</p>
+
+
+---
 
 
 ## 🏆 GitHub Trophies
