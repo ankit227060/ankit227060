@@ -16,22 +16,22 @@
 - 📫 **Reach me at :** mr.ankit910@gmail.com
  
 
-🔗 **Connect with me**
+🔗 **Connect on**
 
 <p align="left">
-  <a href="https://www.instagram.com/its_yduvnshi/" target="_blank">
+  <a href="https://www.instagram.com/ankitghamdan/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
   <a href="https://www.snapchat.com/add/its_yduvnshi" target="_blank">
     <img src="https://img.icons8.com/color/48/snapchat.png" alt="Snapchat"/>
   </a>
-  <a href="https://www.linkedin.com/in/parshant786/" target="_blank">
+  <a href="https://www.linkedin.com/in/ankitghamdan/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://wa.me/918826448907" target="_blank">
+  <a href="https://wa.me/919267903503" target="_blank">
     <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/>
   </a>
-  <a href="mailto:parshant786yadav@gmail.com" target="_blank">
+  <a href="mailto:mr.ankit910@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail"/>
   </a>
 </p>
