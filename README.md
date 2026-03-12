@@ -31,7 +31,7 @@
   <a href="https://wa.me/919267903503" target="_blank">
     <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/>
   </a>
-  <a href="mailto:mr.ankit910@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mr.ankit910@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail"/>
   </a>
 </p>
